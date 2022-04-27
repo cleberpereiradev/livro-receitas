@@ -6,3 +6,4 @@ Olá! Bem vindo ao meu livro de receitas :wave:
 - Pavê
 - Bife acebolado
 - Hot dog
+- Bolo de cenoura
